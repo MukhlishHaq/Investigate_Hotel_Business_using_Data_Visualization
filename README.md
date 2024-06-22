@@ -4,19 +4,19 @@
 
 ### Problem Statement
 
-Business performance management is a metric for determining overall business progress toward goals. Business performance related to sales/marketing effectiveness. This performance is determined by the company's ability to set a strategy in order to be able to sell products/services that can meet customer expectations.
+Manajemen kinerja bisnis merupakan metrik yang berguna untuk menilai kemajuan bisnis secara keseluruhan dalam mencapai suatu tujuan. Kinerja bisnis berkaitan dengan efektivitas penjualan atau pemasaran. Hal tersebut dipengaruhi oleh kemampuanan perusahaan dalam menyusun dan menetapkan strategi penjualan produk/jasa sehingga dapat memenuhi harapan pelanggan.
 
-In the hospitality business, of course, it is closely related to the customer. The more customers who order, the more income the company. Therefore, analyzing the behavior of customers in booking hotels is very important. In addition to analyzing customer behavior in booking hotels, to measure the success of a hotel business, we can see the level of order cancellations. If many customers cancel their orders, this will adversely affect the hotel's business performance.
+Dalam bisnis bidang perhotelan pastinya berkaitan erat dengan pelanggan. Semakin banyak pelanggan yang melakukan pemesanan maka semakin meningkat pendapatan perusahaan. Oleh karena itu, analisis terhadap perilaku pelanggan sangatlah diperlukan. Baik analisa terhadap perilaku pelanggan dalam memesan hotel mapaun analisa terhadap tingkat pembatalan pesanan perlu kita lakukan untuk mengetahui kinerja suatu bisnis dalam konteks ini berarti kinerja bisnis bidang perhotelan. Karena jika terdapat banyak pelanggan yang membatalkan pesanannya maka dapat berdampak buruk pada kinerja bisnis hotel.
 
-The purpose of this project is analyzing customer behaviors in hotel business. Provide insights related to hotel business performance. This insight can be obtained by exploring data, such as analyzing how customers behave in ordering hotel tickets or looking for factors that influence the cancellation of hotel ticket bookings. Then present the insights obtained using visualization and data storytelling.
+Tujuan dari proyek ini yaitu menganalisis perilaku pelanggan dalam bisnis bidang perhotelan sehingga dapat memberikan _insight_ mengenai kinerja dari bisnis perhotelan ini.Untuk mendapatkan _Insight_ tersebut kita perlu melakukan eskplorasi data, seperti menganalisis bagaimana perilaku pelanggan dalam melakukan pemesanan hotel ataupun mencari faktor apa saja yang dapat mempengaruhi pelanggan sehingga melakukan pembatalan pemesanan hotel. Selanjutnya untuk memudahkan _audience_ dalam memahami data dan mendapatkan _insight_ maka diperlukan visualisasi dan juga perlu adanya _data storytelling_ untuk menjelaskan kepada _audience_ dengan bahasa yang sesuai dengan karakter _audience_.
 
 ### **Goals**
 
-The company wants to improve business performance by analyzing how customers behave in ordering hotel tickets or looking for factors that influence the cancellation of hotel ticket bookings
+Perusahaan ingin meningkatkan kinerja bisnis dengan menganalisis bagaimana perilaku pelanggan dalam melakukan pemesanan hotel dan menemukan faktor apa saja yang dapat mempengaruhi pelanggan sehingga melakukan pembatalan pemesanan hotel.
 
 ### **Objectives**
 
-Making reporting insights obtained to provide insight related to hotel business performance by using visualization and data storytelling.
+Membuat laporanan atas _insight_ yang diperoleh sehingga dapat memberikan _inisght_ kepada _stakeholder_ terkait kinerja dari bisnisnya dengan menggunakan visualisasi data dan _data storytelling_.
 
 ## Work Environment ⚙
 
