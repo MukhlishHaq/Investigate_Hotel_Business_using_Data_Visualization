@@ -18,7 +18,7 @@ Perusahaan ingin meningkatkan kinerja bisnis dengan menganalisis bagaimana peril
 
 Membuat laporanan atas _insight_ yang diperoleh sehingga dapat memberikan _inisght_ kepada _stakeholder_ terkait kinerja dari bisnisnya dengan menggunakan visualisasi data dan _data storytelling_.
 
-## Work Environment ⚙
+## Work Environment
 
 - **Tools**
 
